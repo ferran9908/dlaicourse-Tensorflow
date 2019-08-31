@@ -6,7 +6,7 @@ Repository containing Jupyter Notebooks for the TensorFlow in Practice specializ
     - [x] Week 2
     - [x] Week 3
     - [x] Week 4
-- [ ] Course 2 
+- [x] Course 2
     - [ ] Week 1
     - [ ] Week 2
     - [ ] Week 3
